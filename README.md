@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Zainab1909/Zainabpro/blob/main/coding%20pic.jpeg)
 <h1 align="center">Hi 👋, I'm Zainab Zubair</h1>
 <h3 align="center">Software Engineer</h3>
 
